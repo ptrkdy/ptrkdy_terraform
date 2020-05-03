@@ -1,0 +1,4 @@
+dev/.terraform/plugins/darwin_amd64/*
+dev/.terraform/plugins/*
+dev/.terraform/*
+**.terraform/*

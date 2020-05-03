@@ -8,9 +8,19 @@
   |_|    \___|  |_|   |_|   \__,_|  |_|   \___/ |_|   |_|_|_|    
 ```                                                                 
 
-# terraform-aws
+# ptrkdy_terraform
 
-This is just a personal repo with a bunch of terraform experiments and demonstration templates
+This is a development workspace to determine how to deploy rasa in AWS
+
+# requirements
+
+You will need an AWS access key with a broad range of permissions
+
+# init
+
+- ```$ terraform init```
+
+https://www.terraform.io/docs/commands/init.html
 
 # usage
 
